@@ -218,62 +218,6 @@ nav {
     margin-bottom: 5px;
 }
 
-/* .time {
-    position: absolute;
-    margin-left: 240px;
-    margin-bottom: ;
-    border-radius: 15%;
-    opacity: 85%;
-    background: black;
-    font-size: 20px;
-    color: white;
-  } */
-
-@media(max-width:900px) {
-    .menu-icon {
-        display: none;
-    }
-
-    .sidebar {
-        display: none;
-    }
-
-    .container,
-    .large-container {
-        padding-left: 5%;
-        padding-right: 5%;
-    }
-
-    .nav-right img {
-        display: none;
-    }
-
-    .nav-right .user-icon {
-        display: block;
-        width: 30px;
-    }
-
-    .nav-middle .search-box input {
-        width: 100px;
-    }
-
-    .nav-middle .mic-icon {
-        display: none;
-    }
-
-    .logo-icon {
-        width: 90px;
-    }
-
-    .time {
-        position: absolute;
-        bottom: 8px;
-        left: 16px;
-
-    }
-
-}
-
 
 
 /* ----------------play video----------------- */
@@ -492,25 +436,7 @@ nav {
     color: #0000ff;
 }
 
-@media(max-width:900px){
-    .play-video{
-        flex-basis: 100%;
-    }
-    .right-sidebar{
-        flex-basis: 100;
-    }
-    .play-container{
-        padding-left: 5%;
-    }
-    .vid-description{
-        padding-left: 0;
-    }
-    .play-video .play-video-info a{
-        margin-left:0 ;
-        margin-right: 15px;
-        margin-top: 15px;
-    }
-}
+
 
 
 
